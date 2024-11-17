@@ -3,12 +3,12 @@
     "workbench.colorTheme": "One Dark Flatland Monokai",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorCustomizations": {
-        "statusBar.background" : "#528cff",
-        "statusBar.foreground" : "#ffffff",
+        "statusBar.background": "#528cff",
+        "statusBar.foreground": "#ffffff",
         "statusBar.debuggingBackground": "#e08300",
         "statusBar.debuggingForeground": "#ffffff",
-        "statusBar.noFolderBackground" : "#528cff",
-        "statusBar.noFolderForeground" : "#ffffff",
+        "statusBar.noFolderBackground": "#528cff",
+        "statusBar.noFolderForeground": "#ffffff",
         "statusBarItem.activeBackground": "#ffffff30",
         "statusBarItem.hoverBackground": "#ffffff30"
     },
@@ -20,5 +20,41 @@
     "ShortcutMenuBar.toggleActivityBar": true,
     "atomKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true
+    "editor.formatOnPaste": true,
+    "git.confirmSync": false,
+    "editor.stickyScroll.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.startupEditor": "none",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[marko]": {
+        "editor.defaultFormatter": "buster.marko-beautify"
+    },
+    "bicep.enableSurveys": false,
+    "githubPullRequests.pullBranch": "never",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.suggestSmartCommit": false,
+    "svgPreview.autoOpen": false,
+    "nyanMode.nyanColor": "#ffffff",
+    "nyanMode.nyanLength": 20
 }
