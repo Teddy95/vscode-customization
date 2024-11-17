@@ -56,5 +56,15 @@
     "git.suggestSmartCommit": false,
     "svgPreview.autoOpen": false,
     "nyanMode.nyanColor": "#ffffff",
-    "nyanMode.nyanLength": 20
+    "nyanMode.nyanLength": 20,
+    "prettier.bracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.printWidth": 120,
+    "prettier.semi": false,
+    "prettier.singleAttributePerLine": true,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "all",
+    "prettier.useTabs": true,
+    "github.copilot.editor.enableAutoCompletions": true
 }
